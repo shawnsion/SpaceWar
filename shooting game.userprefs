@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\MenuGui.cs">
+    <Files>
+      <File FileName="Assets\script\InputController.cs" Line="27" Column="39" />
+      <File FileName="Assets\script\HpBar.cs" Line="72" Column="11" />
+      <File FileName="Assets\script\BulletGui.cs" Line="87" Column="4" />
+      <File FileName="Assets\script\MenuGui.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
